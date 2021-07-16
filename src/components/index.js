@@ -1,0 +1,11 @@
+export {default as accordian} from "./accordion";
+export {default as cards} from "./cards";
+export {default as features} from "./features";
+export {default as footer} from "./footer";
+export {default as form} from "./form";
+export {default as header} from "./header";
+export {default as jumbotron} from "./jumbotron";
+export {default as loading} from "./loading";
+export {default as optForm} from "./optForm";
+export {default as player} from "./player";
+export {default as profile} from "./profile";
